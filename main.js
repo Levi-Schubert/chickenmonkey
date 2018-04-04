@@ -11,4 +11,4 @@ for(let i = 1; i <= 100; i += 1){
     }else{ 
         console.log(i); // otherwise print number
     }
-}
+} //test
